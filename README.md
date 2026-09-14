@@ -1,7 +1,7 @@
 # Hi, I'm Quang Thuận 👋
 
-### 👨‍💻 Software Engineering Student at FPT University | Frontend Developer
-A final-year student passionate about building intuitive, user-centric web applications and exploring modern AI technologies. Currently focusing on the React ecosystem and crafting creative projects like "Noirr".
+### 👨‍💻 Software Engineering Student at FPT University
+Aspiring Software Engineer with practical experience across web and mobile application development. Passionate about creating intuitive digital products, learning new technologies, and delivering efficient solutions for real-world needs.
 
 ---
 
